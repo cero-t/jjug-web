@@ -57,7 +57,7 @@ metaDataFormat = "yaml"
 [[menu.main]]
   parent = "about"
   name = "幹事会メンバー"
-  url = "page/staff"
+  url = "staff"
   weight = 5
 
 [[menu.main]]
