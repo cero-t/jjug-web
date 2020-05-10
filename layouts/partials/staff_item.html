@@ -1,0 +1,25 @@
+<p>
+  <a href="{{ .Params.link }}" target="_blank">
+    {{ if .Params.image }}
+      <img src="{{ .Params.image }}" alt  width="100px" height="100px" style="float: left; margin: 0 10px 10px 0;"/>
+    {{ end }}
+  </a>
+
+  {{ if .Params.role }}
+    {{ .Params.role }}
+      <br/>
+  {{ end }}
+  {{ if .Params.name }}
+    {{ .Params.name }}
+    <br/>
+  {{ end }}
+  {{ range .Params.companies }}
+    {{ . }}
+    <br/>
+  {{ end }}
+  {{ range .Params.communities }}
+    {{ . }}
+    <br/>
+  {{ end }}
+</p>
+<hr style="clear: both;">
