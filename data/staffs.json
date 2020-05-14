@@ -1,0 +1,61 @@
+{
+    "staffs": [
+        {
+            "name": "谷本 心(Shin Tanimoto)",
+            "image": "img/cero_t.jpg",
+            "link": "https://twitter.com/cero_t",
+            "role": "リーダー(Leader)",
+            "companies": [
+                {
+                    "name": "株式会社Everforth (Everforth Co., Ltd.)",
+                    "link": "https://everforth.co.jp/"
+                },
+                {
+                    "name": "アクロクエストテクノロジー株式会社 (Acroquest Technology Co., Ltd.)",
+                    "link": "https://www.acroquest.co.jp/"
+                }
+            ],
+            "communities": [
+                {
+                    "name": "関西Javaエンジニアの会 (Kansai Java Engineer Group)",
+                    "link": "https://kanjava.connpass.com/"
+                }
+            ]
+        },
+        {
+            "name": "鈴木 雄介 (Yusuke Suzuki)",
+            "image": "img/yusuke_arclamp.jpg",
+            "link": "https://twitter.com/yusuke_arclamp",
+            "role": "サブリーダー(Sub Leader)",
+            "companies": [
+                {
+                    "name": "グロースエクスパートナーズ株式会社 (Growth xPartners Incorporated.)",
+                    "link": "https://www.gxp.co.jp/"
+                }
+            ]
+        },
+        {
+            "name": "石田 真彩 (Maaya Ishida)",
+            "image": "img/maaya8585.jpg",
+            "link": "https://twitter.com/maaya8585",
+            "role": "サブリーダー(Sub Leader)",
+            "companies": [
+                {
+                    "name": "日本マイクロソフト株式会社 (Microsoft Japan Co., Ltd.)",
+                    "link": "https://www.microsoft.com/ja-jp"
+                }
+            ],
+            "communities": [
+                {
+                    "name": "Java女子部 (Java Women Community)",
+                    "link": "https://javajo.doorkeeper.jp/"
+                }
+            ]
+        },
+        {
+            "name": "柴田 洋平(Youhei Shibata)",
+            "image": "img/yangping0211.jpg",
+            "link": "https://twitter.com/yangping0211"
+        }
+    ]
+}
