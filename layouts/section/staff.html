@@ -10,11 +10,21 @@
       <div class="staff-list">
         {{ range .Site.Data.staffs.staffs }}
         <p>
+          {{ if .link }}
           <a href="{{ .link }}" target="_blank">
             {{ if .image }}
-            <img src="{{ .image }}" alt width="100px" height="100px" style="float: left; margin: 0 10px 10px 0;" />
+              <img src="{{ .image }}" alt width="100px" height="100px" style="float: left; margin: 0 10px 10px 0;" />
+            {{ else }}
+              <img src="img/duke.png" alt width="100px" height="100px" style="float: left; margin: 0 10px 10px 0;" />
             {{ end }}
           </a>
+          {{ else }}
+            {{ if .image }}
+              <img src="{{ .image }}" alt width="100px" height="100px" style="float: left; margin: 0 10px 10px 0;" />
+            {{ else }}
+              <img src="img/duke.png" alt width="100px" height="100px" style="float: left; margin: 0 10px 10px 0;" />
+            {{ end }}
+          {{ end }}
 
           {{ if .role }}
           {{ .role }}
