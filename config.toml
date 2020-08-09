@@ -9,6 +9,7 @@ metaDataFormat = "yaml"
 [Params]
   subtitle = "JJUG (Japan Java User Group)"
   mainSections = ["post"]
+  logo = "img/kimono-duke.png"
   dateFormat = "2006/01/02"
   socialShare = true
   wordCount = false
