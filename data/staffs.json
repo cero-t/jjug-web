@@ -1,10 +1,10 @@
 {
     "staffs": [
         {
-            "name": "谷本 心(Shin Tanimoto)",
+            "name": "谷本 心 (Shin Tanimoto)",
             "image": "img/cero_t.jpg",
             "link": "https://twitter.com/cero_t",
-            "role": "リーダー(Leader)",
+            "role": "リーダー (Leader)",
             "companies": [
                 {
                     "name": "株式会社Everforth (Everforth Co., Ltd.)",
@@ -26,7 +26,7 @@
             "name": "鈴木 雄介 (Yusuke Suzuki)",
             "image": "img/yusuke_arclamp.jpg",
             "link": "https://twitter.com/yusuke_arclamp",
-            "role": "サブリーダー(Sub Leader)",
+            "role": "サブリーダー (Sub Leader)",
             "companies": [
                 {
                     "name": "グロースエクスパートナーズ株式会社 (Growth xPartners Incorporated.)",
@@ -38,7 +38,7 @@
             "name": "石田 真彩 (Maaya Ishida)",
             "image": "img/maaya8585.jpg",
             "link": "https://twitter.com/maaya8585",
-            "role": "サブリーダー(Sub Leader)",
+            "role": "サブリーダー (Sub Leader)",
             "companies": [
                 {
                     "name": "日本マイクロソフト株式会社 (Microsoft Japan Co., Ltd.)",
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "name": "贄 良則(Yoshinori Nie)",
+            "name": "贄 良則 (Yoshinori Nie)",
             "image": "img/yoshinorinie.jpg",
             "link": "https://twitter.com/yoshinorinie",
             "role": "会計・監査 (Auditor)",
@@ -101,7 +101,7 @@
             "link": "https://twitter.com/b1a9idps",
             "companies": [
                 {
-                    "name": "コイニー株式会社(Coiney, Inc.)",
+                    "name": "コイニー株式会社 (Coiney, Inc.)",
                     "link": "https://coiney.com/corp/"
                 }
             ]
@@ -143,7 +143,7 @@
             "name": "佐藤 達志 (Tatsushi Sato)"
         },
         {
-            "name": "柴田 洋平(Youhei Shibata)",
+            "name": "柴田 洋平 (Youhei Shibata)",
             "image": "img/yangping0211.jpg",
             "link": "https://twitter.com/yangping0211"
         },
@@ -185,7 +185,7 @@
             ]
         },
         {
-            "name": "西川 彰広(Akihiro Nishikawa)",
+            "name": "西川 彰広 (Akihiro Nishikawa)",
             "image": "img/Logico_jp.png",
             "link": "https://twitter.com/Logico_jp"
         },
